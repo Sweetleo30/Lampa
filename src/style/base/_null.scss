@@ -31,6 +31,8 @@ body {
     line-height: 1;
     font-family: $fontFamily;
     font-size: $fontSize;
+    font-weight: $fontWeight;
+    background-color: $bgBody;
     //text-rendering: optimizeLegibility;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
